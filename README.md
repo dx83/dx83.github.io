@@ -6,3 +6,4 @@
 4. index.html과 동일한 위치에 .nojekyll 을 가진 빈파일 생성
 5. Settings -> Pages -> Source : Deploy from a branch 선택 -> Branch : main 선택 /(root) 선택 후 save
 6. Visit site 클릭 : 로딩 화면
+
