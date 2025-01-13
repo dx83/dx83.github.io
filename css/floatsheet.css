@@ -13,12 +13,13 @@ a {
 }
 /* ----------------------- */
 
-.frame {
+.sheet-form-frame {
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
 }
 
-.sheet {
+.sheet-form-main {
     width: 1400PX;
     height: 1980PX;
     border: 2px solid #000;
@@ -26,7 +27,7 @@ a {
 }
 
 .wrap {
-    width: 800px;
+    width: 810px;
     border: 5px solid black;
     float: left;
     position: absolute;
