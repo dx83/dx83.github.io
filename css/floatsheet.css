@@ -1,4 +1,4 @@
-﻿/*초기화*/
+﻿/*
 * {
     margin: 0px;
     padding: 0px;
@@ -11,7 +11,7 @@ ul, ol {
 a {
     text-decoration: none;
 }
-/* ----------------------- */
+*/
 
 .sheet-form-frame {
     display: flex;
